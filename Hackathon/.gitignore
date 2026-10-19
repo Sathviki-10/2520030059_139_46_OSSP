@@ -1,0 +1,7 @@
+*.o
+dining_os_lab
+dining_log.txt
+ordered_run.txt
+waiter.txt
+fifo_demo.tmp
+file_io_demo.tmp
